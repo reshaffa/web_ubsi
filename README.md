@@ -6,3 +6,5 @@ Membuat Form Input Komentar
 Membuat Form Registrasi
 - PERTEMUAN 7
 Membuat Rumus Perhitungan Persegi Panjang & Segitiga
+- PERTEMUAN 12
+Membangun Web Responsive Perpustakaan Sederhana
