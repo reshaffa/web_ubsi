@@ -4,5 +4,5 @@
 Membuat Form Input Komentar
 - PERTEMUAN 6
 Membuat Form Registrasi
--PERTEMUAN 7
+- PERTEMUAN 7
 Membuat Rumus Perhitungan Persegi Panjang & Segitiga
