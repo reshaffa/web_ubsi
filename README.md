@@ -8,3 +8,5 @@ Membuat Form Registrasi
 Membuat Rumus Perhitungan Persegi Panjang & Segitiga
 - PERTEMUAN 12
 Membangun Web Responsive Perpustakaan Sederhana
+
+Catatan : Jangan lupa subscribe channel youtube kami
